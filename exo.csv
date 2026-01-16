@@ -1,0 +1,4 @@
+username,name,password,email,failed_login_attemps,logged_in,role
+utilisateur,Jean Dupont,utilisateurMDP,utilisateur@gmail.com,0,False,utilisateur
+root,Administrateur,alisem,admin@gmail.com,0,False,administrateur
+ali,Administrateur,abi,admin@gmail.com,0,False,administrateur
